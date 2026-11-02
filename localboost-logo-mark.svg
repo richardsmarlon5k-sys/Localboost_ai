@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="t d">
+<title id="t">LocalBoost AI digital location emblem</title><desc id="d">Electric blue location pin in a digital globe with circuit connections on midnight blue.</desc>
+<defs><radialGradient id="bg" cx="46%" cy="39%" r="82%"><stop offset="0" stop-color="#113e8c"/><stop offset=".56" stop-color="#071c42"/><stop offset="1" stop-color="#020d21"/></radialGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#72f2ff"/><stop offset=".52" stop-color="#04bcff"/><stop offset="1" stop-color="#1371f0"/></linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="3" y="3" width="234" height="234" rx="43" fill="url(#bg)" stroke="#2364b1" stroke-width="3"/>
+<g fill="none" stroke="#139dea" opacity=".62" stroke-width="2.1"><path d="M25 151h38l19-18h23M215 151h-38l-19-18h-23"/><path d="M25 173h29l30-30h19M215 173h-29l-30-30h-19"/><path d="M36 126h34l18-12h18M204 126h-34l-18-12h-18"/><path d="M53 192l24-29h35M187 192l-24-29h-35"/><path d="M24 91h32l20 18h27M216 91h-32l-20 18h-27"/></g>
+<g stroke="url(#neon)" stroke-width="3" fill="none" opacity=".82"><path d="M44 137a77 77 0 0 1 152 0"/><path d="M60 88c18-13 102-13 120 0"/><path d="M54 111h24m84 0h24"/><path d="M81 70c-8 14-13 28-15 43m93-43c8 14 13 28 15 43"/></g>
+<g fill="#18bfff" filter="url(#glow)"><circle cx="26" cy="91" r="3.8"/><circle cx="214" cy="91" r="3.8"/><circle cx="26" cy="151" r="3.8"/><circle cx="214" cy="151" r="3.8"/><circle cx="25" cy="173" r="3.8"/><circle cx="215" cy="173" r="3.8"/><circle cx="36" cy="126" r="3.8"/><circle cx="204" cy="126" r="3.8"/><circle cx="53" cy="192" r="3.8"/><circle cx="187" cy="192" r="3.8"/></g>
+<path d="M120 47c-30 0-53 23-53 52 0 39 53 96 53 96s53-57 53-96c0-29-23-52-53-52z" fill="url(#neon)" stroke="#b2f4ff" stroke-width="2" filter="url(#glow)"/>
+<path d="M120 60c-22 0-40 18-40 40 0 29 40 76 40 76s40-47 40-76c0-22-18-40-40-40" fill="#0c48a4" opacity=".45"/>
+<circle cx="120" cy="100" r="20" fill="#062757" stroke="#bffbff" stroke-width="4"/><path d="M38 204h164" stroke="url(#neon)" stroke-width="2" opacity=".8"/>
+</svg>
